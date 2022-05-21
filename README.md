@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mr-maaz
 - 👀 I’m interested in automating things.
 - 🌱 I’m currently learning as learning never ends.
-- 💞️ I’m looking to collaborate on automating evrything.
+- 💞️ I’m looking to collaborate on automating everything.
 - 📫 How to reach me ...
 
 <!---
